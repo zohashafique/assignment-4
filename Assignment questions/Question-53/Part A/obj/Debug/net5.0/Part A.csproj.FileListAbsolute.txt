@@ -1,0 +1,16 @@
+C:\Users\A\Desktop\assign 4\assignment-4\Assignment questions\Question-53\Part A\bin\Debug\net5.0\Part A.exe
+C:\Users\A\Desktop\assign 4\assignment-4\Assignment questions\Question-53\Part A\bin\Debug\net5.0\Part A.deps.json
+C:\Users\A\Desktop\assign 4\assignment-4\Assignment questions\Question-53\Part A\bin\Debug\net5.0\Part A.runtimeconfig.json
+C:\Users\A\Desktop\assign 4\assignment-4\Assignment questions\Question-53\Part A\bin\Debug\net5.0\Part A.runtimeconfig.dev.json
+C:\Users\A\Desktop\assign 4\assignment-4\Assignment questions\Question-53\Part A\bin\Debug\net5.0\Part A.dll
+C:\Users\A\Desktop\assign 4\assignment-4\Assignment questions\Question-53\Part A\bin\Debug\net5.0\ref\Part A.dll
+C:\Users\A\Desktop\assign 4\assignment-4\Assignment questions\Question-53\Part A\bin\Debug\net5.0\Part A.pdb
+C:\Users\A\Desktop\assign 4\assignment-4\Assignment questions\Question-53\Part A\obj\Debug\net5.0\Part A.csprojAssemblyReference.cache
+C:\Users\A\Desktop\assign 4\assignment-4\Assignment questions\Question-53\Part A\obj\Debug\net5.0\Part A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\Desktop\assign 4\assignment-4\Assignment questions\Question-53\Part A\obj\Debug\net5.0\Part A.AssemblyInfoInputs.cache
+C:\Users\A\Desktop\assign 4\assignment-4\Assignment questions\Question-53\Part A\obj\Debug\net5.0\Part A.AssemblyInfo.cs
+C:\Users\A\Desktop\assign 4\assignment-4\Assignment questions\Question-53\Part A\obj\Debug\net5.0\Part A.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\assign 4\assignment-4\Assignment questions\Question-53\Part A\obj\Debug\net5.0\Part A.dll
+C:\Users\A\Desktop\assign 4\assignment-4\Assignment questions\Question-53\Part A\obj\Debug\net5.0\ref\Part A.dll
+C:\Users\A\Desktop\assign 4\assignment-4\Assignment questions\Question-53\Part A\obj\Debug\net5.0\Part A.pdb
+C:\Users\A\Desktop\assign 4\assignment-4\Assignment questions\Question-53\Part A\obj\Debug\net5.0\Part A.genruntimeconfig.cache
